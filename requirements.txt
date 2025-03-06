@@ -1,0 +1,5 @@
+opencv-python>=4.5.0
+opencv-python-headless>=4.5.0  # 无GUI版本，用于构建
+numpy>=1.21.0  # OpenCV依赖
+tkinterdnd2>=0.3.0
+pillow>=9.0.0  # 用于图标支持 
